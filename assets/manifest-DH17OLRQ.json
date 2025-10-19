@@ -1,0 +1,38 @@
+{
+  "name": "اپلیکیشن سایت طراحی شده دسترسی",
+  "short_name": "اپ دسترسی",
+  "start_url": "/dastresi-react",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2196f3",
+  "icons": [
+    {
+      "src": "https://javad-madadi.github.io/api-js/images/icon/favicon.png",
+      "sizes": "30x30",
+      "type": "image/png"
+    },
+    {
+      "src": "https://www.svgrepo.com/show/269033/online-shop-ecommerce.svg",
+      "sizes": "800x800",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "description": "سایت طراحی شده دسترسی با استفاده از فریمورک ری اکت",
+  "id": "/",
+  "screenshots": [
+    {
+      "src": "https://javad-madadi.github.io/api-js/images/slider3/1.jpg",
+      "sizes": "500x500",
+      "type": "image/png",
+      "label": "محصول فروشی",
+      "form_factor": "wide"
+    },
+    {
+      "src": "https://javad-madadi.github.io/api-js/images/slider3/3.jpg",
+      "sizes": "500x500",
+      "type": "image/png",
+      "label": "محصول فروشی"
+    }
+  ]
+}
